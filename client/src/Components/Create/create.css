@@ -1,0 +1,53 @@
+#form_create {
+  width: 100%;
+  height: 100%;
+  /* background-color: red; */
+}
+
+.title_create {
+  width: 100%;
+  height: 40px;
+  border: none;
+  background-color: rgb(233, 233, 233);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.description_create {
+  width: 100%;
+  height: 40px;
+  border: none;
+  background-color: rgb(233, 233, 233);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.imageUrl_create {
+  width: 100%;
+  height: 40px;
+  border: none;
+  background-color: rgb(233, 233, 233);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.price_create {
+  width: 100%;
+  height: 40px;
+  border: none;
+  background-color: rgb(233, 233, 233);
+  border-radius: 5px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.submit_btn {
+  width: 100%;
+  border: none;
+  background-color: #e8e8e8;
+  border-radius: 10px;
+  padding: 10px;
+}

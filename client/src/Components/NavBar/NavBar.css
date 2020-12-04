@@ -1,0 +1,17 @@
+.filledCart{
+    width: 20px;
+    height: 20px;
+    background: red;
+    position: absolute;
+    top: 0.8em;
+    right: 12.5em;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.emptyCart{
+    display: none;
+}
